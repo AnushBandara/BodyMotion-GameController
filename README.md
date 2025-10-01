@@ -15,7 +15,7 @@ This project turns **your body movements into game controls** using **Python, Op
 
 ## 📹 Demo
 Here’s me testing it out (fair warning: I got lost in the game pretty quickly 😂).  
-[Insert LinkedIn video link or GIF here]
+[[Check out the demo !!](https://youtu.be/9R-LLirVoXw)]
 
 
 ## 🛠️ Tech Stack
